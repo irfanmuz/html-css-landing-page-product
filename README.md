@@ -15,7 +15,7 @@ Project ini merupakan landing page produk sederhana yang dibuat sebagai bagian d
 - JavaScript (Vanilla) *(opsional jika digunakan)*
 
 ## 🚀 Demo
-https://username.github.io/project-name/
+https://irfanmuz.github.io/html-css-landing-page-product/
 
 ## 📂 Struktur Folder
 landing-page-product/
